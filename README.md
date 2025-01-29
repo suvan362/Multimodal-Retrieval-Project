@@ -2,7 +2,7 @@
 
 Basic system of identifying ingredient images and then, ranking and retrieving recipes from MongoDB database.
 
-Upload.py sets up a basic website, uploads images to google colab (CNN) to identify ingredients, ranks recipes from MongoDB according to number of matched ingredients and displays the relevant results. 
+Upload.py sets up a basic website, uploads images to google colab (CNN) to identify ingredients in the images, ranks recipes from MongoDB according to number of matched ingredients and displays the relevant results. 
 
 AIR_model_training.ipynb contains the code of MobileNetV2 CNN training and hosting.
 
